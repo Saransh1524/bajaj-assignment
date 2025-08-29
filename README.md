@@ -10,29 +10,29 @@ The API processes an array of mixed values and returns categorized results such 
 ---
 
 ##  Hosted API
-- **Base URL:** [`https://bajaj-assignment-lk7y.onrender.com`](https://bajaj-assignment-lk7y.onrender.com)  
-- **Route:** `/bfhl`  
-- **Method:** `POST`  
-- **Status Code:** `200 OK` for successful requests  
+- Base URL: [`https://bajaj-assignment-lk7y.onrender.com`](https://bajaj-assignment-lk7y.onrender.com)  
+- Route: `/bfhl`  
+- Method: `POST`  
+- Status Code: `200 OK` for successful requests  
 
 ---
 
 ##  Request Format
-**Endpoint:**  
+Endpoint:  
 ```
 
 POST /bfhl
 
 ```
 
-**Headers:**
+Headers:
 ```
 
 Content-Type: application/json
 
 ````
 
-**Body Example:**
+Body Example:
 ```json
 {
   "data": ["a", "1", "334", "4", "R", "$"]
