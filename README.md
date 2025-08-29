@@ -1,13 +1,9 @@
 
-# 📄 README.md
-
-```markdown
 # BFHL Assignment API
 
 This project is a simple REST API built as part of the Full Stack assignment.  
 The API processes an array of mixed values and returns categorized results such as even numbers, odd numbers, alphabets, special characters, sum of numbers, and a concatenated string in alternating caps.
 
----
 
 ##  Hosted API
 - Base URL: [`https://bajaj-assignment-lk7y.onrender.com`](https://bajaj-assignment-lk7y.onrender.com)  
@@ -15,7 +11,7 @@ The API processes an array of mixed values and returns categorized results such 
 - Method: `POST`  
 - Status Code: `200 OK` for successful requests  
 
----
+
 
 ##  Request Format
 Endpoint:  
@@ -163,11 +159,10 @@ https://bajaj-assignment-lk7y.onrender.com
 * **Hosting:** Render
 * **Testing:** Jest, Supertest (for unit tests)
 
----
 
 ##  Author
 
 Saransh Naole
 Roll No: 22BIT0154 | VIT Vellore
 
-```
+
